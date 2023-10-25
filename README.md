@@ -1,35 +1,10 @@
-## Run Locally
+# RentalMobil
 
-Clone the project
+1. Nama Anggota kelompok
+   1. Diva Firnanda Azzahra / NIM BARU :434221031 & NIM LAMA:015221032
+   2. Eli Yundari /  502310010379
 
-```bash
-  git clone https://github.com/Oecophyllaa/rent-car.git
-```
+3. Judul Aplikasi : Vrom (Sistem Informasi Rental Mobil)
 
-Go to the project directory
-
-```bash
-  cd rent-car
-```
-
-Install dependencies
-
-```bash
-  composer install
-  npm install
-  npm run build
-```
-
-Setup environment
-
-```bash
-  cp .env.example .env
-  php artisan key:generate
-  php artisan migrate
-```
-
-Start the server
-
-```bash
-  php artisan serve
-```
+4. Deskripsi Aplikasi : Aplikasi yang berfungsi untuk mempermudah pengguna dalam proses 
+booking mobil. Aplikasi ini dirancang untuk memfasilitasi pengguna dalam melakukan pemesanan mobil dengan fitur-fitur seperti katalog mobil, detail spesifikasi, deskripsi mobil, dan kemampuan untuk menghubungi admin.
